@@ -1,6 +1,6 @@
 ## Generate ICONS for Cordova/Electron
 
-Output will be in root folder **/res**
+Output will be in root folder **/res**, res copy to your root cordova project.
 
 How import icons to cordova config read file **config.xml** in root
 
